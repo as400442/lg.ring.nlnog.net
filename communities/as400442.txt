@@ -1,9 +1,9 @@
 # Pulled from lg.as400442.net provided by noc@as400442.net
-- 64590:1,Originated From AS400442
-- 64590:2,Recieved Via MBIX
-- 64590:3,Recieved Via Upstream (Zayo)
-- 64590:4,Bogon Prefix (Filtered)
-- 64590:5,Advertised to Clients
-- 64590:6,RPKI Valid and Accepted
-- 64590:7,RPKI Invalid and Filtered
-- 64590:8,RPKI Not Found and Accepted
+64590:1,Originated From AS400442
+64590:2,Recieved Via MBIX
+64590:3,Recieved Via Upstream (Zayo)
+64590:4,Bogon Prefix (Filtered)
+64590:5,Advertised to Clients
+64590:6,RPKI Valid and Accepted
+64590:7,RPKI Invalid and Filtered
+64590:8,RPKI Not Found and Accepted
